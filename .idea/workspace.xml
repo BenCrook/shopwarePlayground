@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bde2861-2141-4048-88dd-e568cfd3f01e" name="Default" comment="" />
+    <list default="true" id="3bde2861-2141-4048-88dd-e568cfd3f01e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/topbar-navigation.tpl" afterPath="$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/topbar-navigation.tpl" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--1/shopware--15/shopware--154/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4d520b04a20423228e59e365d4561ca0a5" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--1/shopware--15/shopware--154/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4d520b04a20423228e59e365d4561ca0a5" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_169e1380dd7882549fccae53d6cf5d20" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_169e1380dd7882549fccae53d6cf5d20" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_640d36eeb9316d9935536694e4480ecb" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_640d36eeb9316d9935536694e4480ecb" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_85c86773fadb370b9798c199dacfa2fb" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_85c86773fadb370b9798c199dacfa2fb" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_8fe34f889800a64a6fe70ea9bf6de042" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_8fe34f889800a64a6fe70ea9bf6de042" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_969699dcf40cf6fced09c1894dc9f6d0" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_969699dcf40cf6fced09c1894dc9f6d0" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_ba87d9df0a9c744725292158b2f098ce" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_ba87d9df0a9c744725292158b2f098ce" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_cf098ccfe84b233fd9cac72eea1027f5" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_cf098ccfe84b233fd9cac72eea1027f5" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_de916337d8b408988829302e11d0a181" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_de916337d8b408988829302e11d0a181" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_eac517ab6d78b033f7c9c612aa854e5b" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_eac517ab6d78b033f7c9c612aa854e5b" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_f8e0a379f28d92523025758c90edffc5" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dShopware/shopware--Models/shopware--201710241020/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dShopware_Models_201710241020_f8e0a379f28d92523025758c90edffc5" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencynumber_" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencynumber_" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencysymbol_" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencysymbol_" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencysymbol_GBP" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencysymbol_GBP" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencytoname_GBP" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencytoname_GBP" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencytoregion_GB" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_currencytoregion_GB" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_nametocurrency_" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_nametocurrency_" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_nametocurrency_GBP" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleC/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleC_en_GB_nametocurrency_GBP" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleL/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleL_en_GB_symbols_" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/general/shopware--3c2c402d40b1c2259e7403c4645ccc4dZend/shopware--LocaleL/shopware--en/shopware---internal-metadatas---3c2c402d40b1c2259e7403c4645ccc4dZend_LocaleL_en_GB_symbols_" />
+      <change beforePath="$PROJECT_DIR$/var/cache/production_201710241020/templates/frontend_Responsive_en_GB_1/75/94/13/759413dc0f7b8c4b750248449c341e023b81991b.snippet.index.tpl.php" afterPath="$PROJECT_DIR$/var/cache/production_201710241020/templates/frontend_Responsive_en_GB_1/75/94/13/759413dc0f7b8c4b750248449c341e023b81991b.snippet.index.tpl.php" />
+      <change beforePath="$PROJECT_DIR$/var/log/core_production-2018-01-05.log" afterPath="$PROJECT_DIR$/var/log/core_production-2018-01-05.log" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,22 +34,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="footer.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/footer.tpl">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="header-test.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/header-test.tpl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer-navigation.tpl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/footer-navigation.tpl">
+      <file leaf-file-name="topbar-navigation.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/topbar-navigation.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="63">
+              <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sidebar.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/sidebar.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1323">
+              <caret line="63" column="50" lean-forward="false" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -36,13 +70,27 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>nav</find>
+      <find>sites-navigation</find>
+      <find>@brand-primary:</find>
+      <find>primary</find>
+      <find>brand-primary</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/themes/Frontend/Bare/frontend/index</dir>
+      <dir>$PROJECT_DIR$/themes/Frontend</dir>
+      <dir>$PROJECT_DIR$/themes/Frontend/Responsive</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/test.tpl" />
         <option value="$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/footer.tpl" />
+        <option value="$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/header-test.tpl" />
+        <option value="$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/topbar-navigation.tpl" />
       </list>
     </option>
   </component>
@@ -56,6 +104,9 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -72,6 +123,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,7 +165,7 @@
               <item name="Frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Bare" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="home" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="shopware" type="b2602c69:ProjectViewProjectNode" />
@@ -121,14 +174,19 @@
               <item name="Frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Bare" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="index" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="shopware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopware" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Responsive" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,33 +218,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515106452814</updated>
-      <workItem from="1515106455772" duration="1516000" />
+      <workItem from="1515106455772" duration="2458000" />
+      <workItem from="1516122676600" duration="979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1516000" />
+    <option name="totallyTimeSpent" value="3437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -201,12 +259,35 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/header-test.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/sidebar.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="63" column="50" lean-forward="false" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/topbar-navigation.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UPGRADE-5.3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -216,7 +297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -224,7 +304,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -232,7 +311,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -240,7 +318,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-500">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -248,7 +325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -256,7 +332,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -264,7 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -272,7 +346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -280,30 +353,131 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/test.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/test.tpl" />
     <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/footer.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/footer-navigation.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1565">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/header-test.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/sidebar.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="63" column="50" lean-forward="false" selection-start-line="63" selection-start-column="50" selection-end-line="63" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/_public/src/less/all.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/_includes/product_slider.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/custom/ajax.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/_includes/messages.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-959">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/Theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1653">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Responsive/Theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2595">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Responsive/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3014">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Responsive/frontend/_public/src/js/jquery.ajax-variant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/checkout/items/premium-product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/blog/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Frontend/Bare/frontend/index/topbar-navigation.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
           <folding />
         </state>
       </provider>
