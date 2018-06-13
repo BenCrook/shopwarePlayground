@@ -17,27 +17,50 @@
          * Example on how to extend a function.
          *
          * This will override the parent ('swCollapseCart') init function,
-         * we then call this.superclass.init.apply(this, arguments) to call the
-         * parent init function's content
+         * we then call this.superclass.init.apply(this, arguments) to call the parent init function's content
          *
          * Uses `var me = this` to protect the scope and to be consistent with core and jquery-plugin-base
          */
         init: function() {
             var me = this;
-            this.superclass.init.apply(me, arguments);
+            me.superclass.init.apply(me, arguments);
 
-            this.overrideDisplayModeDefault();
-            console.log(me);
-            console.log('Initialised');
+            me.overrideDisplayModeDefault();
         },
 
         /**
          * This overrides the displayMode default from the parent plugin.
+         *
          * Note this does not change any functionality as the default is overridden by a data attribute
-         * (data-displaymode) set on the element itself.
+         * (data-displaymode) set on the element itself. If the data-attribute is removed from the element
+         * this option will take effect. It is done this way so it can be wrapped in an if
+         * statement to take the admin setting value.
+         * See themes/Frontend/Responsive/frontend/_public/src/js/jquery.plugin-base.js:301 for info
          */
         overrideDisplayModeDefault: function() {
-            this.setOption('displayMode', 'collapsible');
+            var me = this;
+
+            me.setOption('displayMode', 'collapsible');
+        },
+
+        /**
+         * Extends the registerEvents function so we can add our own subscription
+         */
+        registerEvents: function() {
+            var me = this;
+
+            // Fires registerEvents from the parent plugin
+            me.superclass.registerEvents.apply(me, arguments);
+
+            // Subscribe to the add to bag event, fires me.anotherOnArticleAdded when the event is fired
+            // - Why do we need to use proxy?
+            // - Look into getEventName and how it works
+            $.subscribe(me.getEventName('plugin/swAddArticle/onAddArticle'), $.proxy(me.anotherOnArticleAdded, me));
+        },
+
+        // Example function that fires when a product has been added to bag
+        anotherOnArticleAdded: function() {
+            console.log('Product has been added to bag!');
         }
     });
 })(jQuery, window);
